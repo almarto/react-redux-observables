@@ -1,0 +1,16 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+
+  .todo {
+    cursor: pointer;
+  }
+
+  .addTodoButton {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+
+  .counterContainer {
+    margin-bottom: 20px;
+  }
+}
